@@ -14,8 +14,8 @@ IDE used: Pycharm
 
 **III. Tools**
 
-1. Tkinter: is used to represent the all functions & built modules in the tkinter library.
-2. Time: a module that provides the current time and also returns number of seconds   
+1. Tkinter : is used to represent the all functions & built modules in the tkinter library.
+2. Time : a module that provides the current time and also returns number of seconds   
 
 **IV. Workflow**
 
