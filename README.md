@@ -25,6 +25,7 @@ IDE used: Pycharm
 4. Labelling is done for output of the tkinter file
 
 
+**V.Applications & Future Scope**
 
-
+This project can be developed as backend application with interactive UI.
 
