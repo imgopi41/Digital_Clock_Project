@@ -19,10 +19,10 @@ IDE used: Pycharm
 
 **IV. Workflow**
 
-1.Tkinter and Time modules are imported in the program. 
-2.Variable and title is given for tkinter module.
-3.A function is defined, inside a function time is converted into string-format.
-4.Labelling is done for output of the tkinter file.
+1.Tkinter and Time modules are imported in the program 
+2.Variable and title is given for tkinter module
+3.A function is defined, inside a function time is converted into string-format
+4.Labelling is done for output of the tkinter file
 
 
 
