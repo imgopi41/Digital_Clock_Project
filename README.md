@@ -8,9 +8,9 @@ Simple labelling has done for font & background.
 
 **II. Technology Stack**
 
-Language: Python(3.6)
+Language: Python
 
-IDE used: Pycharm
+IDE used: Pycharm(3.6)
 
 **III. Tools**
 
