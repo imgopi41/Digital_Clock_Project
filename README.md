@@ -25,7 +25,7 @@ IDE used: Pycharm(3.6)
 4. Labelling is done for output of the tkinter file
 
 
-V. Demo
+**V. Demo**
 
 ![Digital_Clock_Output](https://user-images.githubusercontent.com/99798157/178258038-89e54f1c-2fa1-46ee-83bd-9c32432f95be.JPG)
 
