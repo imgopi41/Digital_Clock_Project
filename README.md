@@ -25,7 +25,12 @@ IDE used: Pycharm(3.6)
 4. Labelling is done for output of the tkinter file
 
 
-**V.Applications & Future Scope**
+V. Demo
+
+![Digital_Clock_Output](https://user-images.githubusercontent.com/99798157/178258038-89e54f1c-2fa1-46ee-83bd-9c32432f95be.JPG)
+
+
+**VI.Applications & Future Scope**
 
 This project can be developed as backend application with interactive UI.
 
